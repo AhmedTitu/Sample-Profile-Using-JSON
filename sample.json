@@ -1,0 +1,32 @@
+[
+    {
+        "firstName" : "Hasan" , 
+        "lastName" : "Ahmed" ,
+        "age" : 34 ,
+        "enrolledCourse" : ["Javascript" , "HTML" , "CSS"]
+    
+    } , 
+    {
+        "firstName" : "Samim" , 
+        "lastName" : "Hasan" ,
+        "age" : 28 ,
+        "enrolledCourse" : ["Javascript" , "CSS" , "C++"]
+    
+    } ,
+    {
+        "firstName" : "Nahid" , 
+        "middleName" : "null" ,
+        "lastName" : "Akash" ,
+        "age" : 22 ,
+        "enrolledCourse" : ["Javascript" , "Python" , "C#"]
+    
+    } ,
+    {
+        "firstName" : "Sohidul Islam" , 
+        "middleName" : "null" ,
+        "lastName" : "Akash" ,
+        "age" : 35 ,
+        "enrolledCourse" : ["Javascript" , "PHP"]
+    
+    }
+]
